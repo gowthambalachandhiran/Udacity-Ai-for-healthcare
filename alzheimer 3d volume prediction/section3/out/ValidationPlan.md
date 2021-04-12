@@ -40,7 +40,7 @@ We have the radiologist annotate the mask from the original image. This is going
   
 You can see the mask annotated by radiologist
   
-<img src="../../section2/out/Mask1.png" alt="Mask1" height="400"/>
+<img src="../section2/out/Mask1.png" alt="Mask1" height="400"/>
 
 ![](Udacity-Ai-for-healthcare/alzheimer 3d volume prediction/section2/out/Mask1.png)
  
